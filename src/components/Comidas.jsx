@@ -23,7 +23,7 @@ export const Comidas = () => {
       });
   }, []);
 
-  // Esto es un commit
+  // Esto es un commit de nuevo
   return (
     <>
       <List sx={{ width: "100%", maxWidth: 360, bgcolor: "background.paper" }}>
